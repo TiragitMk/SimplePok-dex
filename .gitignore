@@ -14,6 +14,7 @@ env/
 .mypy_cache/
 .ruff_cache/
 .ipynb_checkpoints/
+entorno/
 
 # Node / JavaScript
 node_modules/
